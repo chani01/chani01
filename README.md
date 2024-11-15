@@ -12,11 +12,11 @@
 ## 💻 Tech Stack:
 
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?flat-square&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-EA4E2C?style=flat-square&logo=Tensorflow&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
 ![SQL](https://img.shields.io/badge/SQL-A8B9CC?style=flat-square&logo=SQL&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-2CB6EA?style=flat-square&logo=PySpark&logoColor=white)
