@@ -13,10 +13,11 @@
 
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EA4E2C?style=flat-square&logo=PyTorch&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-EA4E2C?style=flat-square&logo=Tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-A8B9CC?style=flat-square&logo=Keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-91EA2C?style=flat-square&logo=Pandas&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
 ![SQL](https://img.shields.io/badge/SQL-A8B9CC?style=flat-square&logo=SQL&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-2CB6EA?style=flat-square&logo=PySpark&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit-learn-3776AB?style=flat-square&logo=scikit-learn&logoColor=white)
