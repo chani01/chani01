@@ -12,7 +12,7 @@
 ## 💻 Tech Stack:
 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EA4E2C?style=flat-square&logo=PyTorch&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-EA4E2C?style=flat-square&logo=Tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-A8B9CC?style=flat-square&logo=Keras&logoColor=white)
