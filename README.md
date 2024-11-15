@@ -17,7 +17,8 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-EA4E2C?style=flat-square&logo=Tensorflow&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-![SQL](https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=realm&logoColor=white)
+![Realm](https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=realm&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ![SQL](https://img.shields.io/badge/SQL-A8B9CC?style=flat-square&logo=SQL&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-2CB6EA?style=flat-square&logo=PySpark&logoColor=white)
