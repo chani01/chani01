@@ -12,7 +12,7 @@
 ## 💻 Tech Stack:
 
 
-![Android](https://img.shields.io/badge/Android-3DDC84?flat-square&logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-EA4E2C?style=flat-square&logo=Tensorflow&logoColor=white)
