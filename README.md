@@ -65,10 +65,9 @@
 </a>
 
 ----
-Credit: [codeoxygen](https://github.com/codeoxygen)
+Credit: [codeoxygen](https://github.com/chani01)
 
-Last Edited on: 07/02/2024           
-
+    
 <!--
 **codeoxygen/codeoxygen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
