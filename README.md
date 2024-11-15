@@ -60,11 +60,8 @@
 
 <div class="badge-base LI-profile-badge" data-locale="ko_kr" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="lahiru-chalana-622749155" data-version="v1"><a class="badge-base__link LI-simple-
 
-<a href="https://www.buymeacoffee.com/lahiruprabS" target="_blank" rel="noreferrer nofollow">
-    <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
 </a>
 
-----
 
     
 <!--
