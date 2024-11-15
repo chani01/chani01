@@ -65,7 +65,6 @@
 </a>
 
 ----
-Credit: [codeoxygen](https://github.com/chani01)
 
     
 <!--
