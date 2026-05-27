@@ -26,7 +26,6 @@
 - 📍 Seoul, Korea
 
 ---
----
 
 ## 🛠 Tech Stack
 
