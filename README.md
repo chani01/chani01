@@ -45,7 +45,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 ### AI Tools
-![OpenAI Codex](https://img.shields.io/badge/Codex-CC785C?style=flat-square&logo=codex&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/Codex-CC785C?style=flat-square&logo=openai&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
