@@ -22,7 +22,6 @@
 
 - 📱 **7년차 Android 개발자** — Kotlin, Jetpack Compose 전문
 - 🤖 AI 기능을 접목한 모바일 서비스에 관심이 많습니다
-- 🌱 현재 **Python → FastAPI → RAG** 풀스택 방향으로 성장 중
 - 🧩 사이드 프로젝트로 **꿈 분석 앱 비춤** Play Store 운영 중
 - 📍 Seoul, Korea
 
