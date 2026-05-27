@@ -83,19 +83,9 @@
 | 현재 | 원메딕스 | Android 개발자 |
 | — | 제메미미 | Android 개발자 · DAU 300% 성장, 매출 1.5억 달성 |
 | — | 생산적문화활동 | Android 개발자 |
-| — | CK&B | Android 개발자 |
+| — | CK&B | Android/iOS 개발자 |
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![chani01's GitHub stats](https://github-readme-stats.vercel.app/api?username=chani01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=C9D1D9)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chani01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=C9D1D9)
-
-</div>
 
 ---
 
