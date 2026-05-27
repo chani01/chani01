@@ -38,7 +38,6 @@
 ![MVVM](https://img.shields.io/badge/MVVM-FF6B35?style=flat-square)
 ![Hilt](https://img.shields.io/badge/Hilt-2196F3?style=flat-square)
 ![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Health Connect](https://img.shields.io/badge/Health_Connect-34A853?style=flat-square&logo=google&logoColor=white)
 ![FCM](https://img.shields.io/badge/FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ### Backend & AI
